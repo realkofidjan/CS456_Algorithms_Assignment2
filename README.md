@@ -37,7 +37,6 @@ NB. When running these commands, make sure your terminal path is the same as the
 ## Demo
 
 1. Running Interactive
-
 ![](https://github.com/realkofidjan/CS456_Algorithms_Assignment2/blob/main/Running%20Interactive.gif)
 
 2. Running an Input File
