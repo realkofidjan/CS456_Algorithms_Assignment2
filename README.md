@@ -36,11 +36,11 @@ NB. When running these commands, make sure your terminal path is the same as the
 
 ## Demo
 
-Running Interactive
+1. Running Interactive
 
 ![](https://github.com/realkofidjan/CS456_Algorithms_Assignment2/blob/main/Running%20Interactive.gif)
 
-Running an Input File
+2. Running an Input File
 ![](https://github.com/realkofidjan/CS456_Algorithms_Assignment2/blob/main/Running%20an%20Input%20File.gif)
 
 
